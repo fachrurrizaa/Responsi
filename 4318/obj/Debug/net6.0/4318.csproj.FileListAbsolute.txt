@@ -1,0 +1,15 @@
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.csproj.AssemblyReference.cache
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.AssemblyInfoInputs.cache
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.AssemblyInfo.cs
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.csproj.CoreCompileInputs.cache
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\bin\Debug\net6.0\4318.exe
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\bin\Debug\net6.0\4318.deps.json
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\bin\Debug\net6.0\4318.runtimeconfig.json
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\bin\Debug\net6.0\4318.dll
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\bin\Debug\net6.0\4318.pdb
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.dll
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\refint\4318.dll
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.pdb
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\4318.genruntimeconfig.cache
+G:\Kuliah Semester 2\Pemrograman\Responsi\4318\obj\Debug\net6.0\ref\4318.dll
